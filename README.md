@@ -1,5 +1,5 @@
-# YUSP
-Transfer Youtube Music playlist to Spotify.
+# Transfer YouTube to Spotify.
+Transfer a YouTube Music playlist to Spotify.
 
 
 # What You Need!
