@@ -8,4 +8,4 @@ You need 2 things
 2. Spotify Secret Key
 
 # Site
-You get these from this site: https://developer.spotify.com/ 
+You get the Client ID & Secret key from this site: https://developer.spotify.com/ 
